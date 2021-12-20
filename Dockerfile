@@ -1,4 +1,4 @@
-FROM google/cadvisor:v0.33.0
+FROM gcr.io/cadvisor/cadvisor:v0.43.0
 
 # Dokku will pick this up
 EXPOSE 8080
